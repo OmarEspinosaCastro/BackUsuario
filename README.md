@@ -1,4 +1,4 @@
-*Gestión de Usuario*
+***Gestión de Usuario***
 
 Se considera un proyecto donde se gestione el registro y edición, se consideran algunas reglas a considerar, de la misma forma se describe a la brevedad los pasos que se siguieron para realizar las tareas. Las herramientas que se alisaron fue IntelliJ IDEA, DBeaver, XAMPP y DBeaver para la parte de Backend.
 
@@ -19,7 +19,7 @@ Generar formulario para Altas, Bajas, Modificaciones de registros de usuario.
 
 Generar una vista de tablero por estatus de usuario y filtros de búsqueda.
 
-*Manos a la obra*
+***Manos a la obra***
 
 De primera instancia se crea la base de datos de acuerdo a las reglas mencionadas el modelo a seguir es el siguiente.
 
