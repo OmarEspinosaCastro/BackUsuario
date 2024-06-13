@@ -1,4 +1,4 @@
-**Gestión de Usuario**
+# Gestión de Usuario Back
 
 Se considera un proyecto donde se gestione el registro y edición, se consideran algunas reglas a considerar, de la misma forma se describe a la brevedad los pasos que se siguieron para realizar las tareas. Las herramientas que se alisaron fue IntelliJ IDEA, DBeaver, XAMPP y DBeaver para la parte de Backend.
 
@@ -19,7 +19,7 @@ Generar formulario para Altas, Bajas, Modificaciones de registros de usuario.
 
 Generar una vista de tablero por estatus de usuario y filtros de búsqueda.
 
-**Manos a la obra**
+# Manos a la obra
 
 De primera instancia se crea la base de datos de acuerdo a las reglas mencionadas el modelo a seguir es el siguiente.
 
@@ -58,6 +58,10 @@ Una vez descargado abrimos el proyecto en este caso utilizo IntelliJIDEA y cream
 Se configura la conexión para gestionar los datos de primera instancia se crea nuestra entidad que hace referencia a nuestra tabla. Editamos el archivo “application.properties” para la conexión con el driver mysl, de la misma forma se trabaja con la herramienta Postman, en cada uno de los Endpoints,ya sea GET, POST o PUT.
 
 ![image](https://github.com/OmarEspinosaCastro/BackUsuario/assets/38709814/d0e54a07-c239-4917-9719-ddac2bf83fba)
+
+Algunos de los endpoints donde se especifica la ruta dependiendo el evento consumido
+
+![image](https://github.com/OmarEspinosaCastro/BackUsuario/assets/38709814/f4e251e3-0074-44be-bd02-94c1344f411f)
 
 
 
